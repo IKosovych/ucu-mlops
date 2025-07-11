@@ -7,8 +7,6 @@ This project implements a complete MLOps pipeline with the following components:
 1. **Scraper**: Collects articles from the MSN News API.
 2. **Processor**: Cleans and deduplicates the scraped data.
 3. **Airflow DAG**: Orchestrates scraping and processing tasks automatically.
-4. **Model**: Trains a text classifier to predict article categories.
-5. **MLflow**: Logs training metrics and tracks model versions.
 
 ---
 
