@@ -45,7 +45,7 @@ PARAMS = {
     "wposchema": "byregion"
 }
 RECORD_LIMIT = 5000
-DESIRED_CATEGORIES = ['lifestyle']
+
 
 def fetch_stories(url: str, skip: int, page: int) -> pd.DataFrame:
     """
