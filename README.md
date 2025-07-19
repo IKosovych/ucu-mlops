@@ -12,7 +12,7 @@ This project implements a complete MLOps pipeline with the following components:
 
 ## Airflow & Astro
 
-- The pipeline is managed and executed inside **Astro**, a managed Airflow platform. ![Astro Airflow](images/astro2.jpg)
+- The pipeline is managed and executed inside **Astro**, a managed Airflow platform. ![Astro Airflow](images/astro1.jpg)
 - The DAG runs within Astro and can be triggered or scheduled using the Astro UI or Astro CLI.
 - Each run can be monitored and logs inspected from the Astro web interface.
 
